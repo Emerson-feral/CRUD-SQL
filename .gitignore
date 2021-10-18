@@ -358,4 +358,8 @@ auth-data.js
 # expo/
 
 /.expo
+<<<<<<< HEAD
 .expo/
+=======
+.expo/
+>>>>>>> 21b4713ef7da62bb7f6d11f582b7bbb61c2d9fc3
